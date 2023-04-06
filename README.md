@@ -1,2 +1,2 @@
-# Exercice about person, professor,students. 
+# Exercise about person, professor,students. By Amine
 
